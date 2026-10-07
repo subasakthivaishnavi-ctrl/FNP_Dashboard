@@ -6,7 +6,7 @@ An interactive **Excel Analytics Dashboard** designed to monitor sales metrics, 
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analysis Dashboard](./FnP_Sales_Analysis/FNPDashboardImg.PNG)
+![Sales Analysis Dashboard](./FnP_Sales_Analysis/FNPDashboardImg.png)
 
 ---
 
@@ -47,7 +47,7 @@ An interactive **Excel Analytics Dashboard** designed to monitor sales metrics, 
 ## 📂 Repository Structure
 
 ```text
-FnP_Sales_Analysis/
+FNP_Dashboard
 │
 ├── FNPDashboardImg.png       # Dashboard screenshot preview
 ├── fnp Dashboard.xlsx      # Main Excel workbook containing dataset & dashboard
