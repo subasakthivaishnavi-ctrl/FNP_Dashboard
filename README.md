@@ -6,7 +6,7 @@ An interactive **Excel Analytics Dashboard** designed to monitor sales metrics, 
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analysis Dashboard](./FNP_Dashboard_Img.PNG)
+![Sales Analysis Dashboard](./FNPDashboardImg.PNG)
 
 ---
 
